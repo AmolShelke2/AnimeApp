@@ -68,8 +68,16 @@ body {
     align-items: center;
 }
 
-.anime-name {
-    float: center;
+.hero-name {
+    margin-bottom: 30px;
+    background-color: rgba(0, 0, 0, 0.774);
+    color: #Fff;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 6px;
+    outline: none;
+    font-size: 17px;
+    font-weight: bold;
 }
 
 @media screen and (max-width: 500px) {
