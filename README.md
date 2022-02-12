@@ -13,4 +13,5 @@ A anime app created with HTML CSS and JavaScript also used fetch API to fetch th
 
 ## Social handles
 
-- [Linkedin]()
+- [Linkedin](https://www.linkedin.com/in/amol-shelke-627813220/)
+- [Twitter](https://twitter.com/Amolshelke09)
