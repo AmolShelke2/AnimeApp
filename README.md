@@ -19,4 +19,6 @@ https://user-images.githubusercontent.com/95171638/156555506-5dcc11fb-6d4b-47ee-
 - [Twitter](https://twitter.com/Amol_shelke09)
 
 
+## owner of the Project 
 
+[Amol Shelke❤️‍🔥](https://github.com/AmolShelke2)
